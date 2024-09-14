@@ -23,7 +23,9 @@ for i in range(1, days + 1):
         christmas_spirit -= 20
     if i % 15 == 0:
         christmas_spirit += 30
-if days % 10 == 0 :
+if days % 10 == 0:
     christmas_spirit -= 30
 print(f'Total cost: {money_spent}')
 print(f'Total spirit: {christmas_spirit}')
+
+counter = 0
