@@ -1,8 +1,8 @@
-word = input().lower()
 words = ["water", "sand", "fish", "sun"]
+word = input().lower()
 counter = 0
 
 for target in words:
-    if target in word:
-        counter += 1
+    counter += word.count(target)
+
 print(counter)
