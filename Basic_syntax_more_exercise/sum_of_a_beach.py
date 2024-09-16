@@ -5,4 +5,4 @@ counter = 0
 for target in words:
     counter += word.count(target)
 
-print(counter)
+print(counter)ghvbh
