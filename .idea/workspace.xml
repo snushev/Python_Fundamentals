@@ -28,12 +28,12 @@
     &quot;assignee&quot;: &quot;snushev&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/snushev/05Basic_syntax.git&quot;,
-    &quot;accountId&quot;: &quot;93444e10-bc8f-443d-91fa-fc10f8dd8b20&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/snushev/Python_Fundamentals.git",
+    "accountId": "93444e10-bc8f-443d-91fa-fc10f8dd8b20"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.venv/even_numbers.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/.venv/word_reverse.py" root0="FORCE_HIGHLIGHTING" />
