@@ -1,5 +1,6 @@
 RED = '\033[91m'
 GREEN = '\033[92m'
+ORANGE = '\033[38;2;255;165;0m'
 YELLOW = '\033[93m'
 BLUE = '\033[94m'
 MAGENTA = '\033[95m'
@@ -8,15 +9,15 @@ RESET = '\033[0m'
 
 
 # Prompt the user to choose a data type to perform operations on
-print(f"{YELLOW}Choose{RESET} a data type to perform operations on:")
-print(f"{CYAN}1.{YELLOW} Strings{RESET}")
-print(f"{CYAN}2.{YELLOW} Numbers{RESET}")
-print(f"{CYAN}3.{YELLOW} Booleans{RESET}")
-print(f"{CYAN}4.{YELLOW} Additional Data Types {RESET}({YELLOW}List, Tuple, Dictionary{RESET})")
+print(f"{ORANGE}Choose{RESET} a data type to perform operations on:")
+print(f"{BLUE}1.{ORANGE} Strings{RESET}")
+print(f"{BLUE}2.{ORANGE} Numbers{RESET}")
+print(f"{BLUE}3.{ORANGE} Booleans{RESET}")
+print(f"{BLUE}4.{ORANGE} Additional Data Types {RESET}({ORANGE}List, Tuple, Dictionary{RESET})")
 
 while True:
     # Get the user's choice and store it in a variable
-    choice = input(f"{YELLOW}Enter{RESET} the number of your choice ({CYAN}1-4{RESET}): ")
+    choice = input(f"{ORANGE}Enter{RESET} the number of your choice ({BLUE}1-4{RESET}): ")
 
     # If the user chooses Strings (choice == '1'):
     if choice == '1':
