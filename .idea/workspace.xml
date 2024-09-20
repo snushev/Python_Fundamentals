@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Data_types_exercise/chars_to_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_types_exercise/elevator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_types_exercise/integer_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_types_exercise/print_part_of_the_ASCII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_types_exercise/sum_of_chars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_types_exercise/triples_of_latin_letters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_types_exercise/water_overflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_types_exercise/gladiator_expenses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_types_exercise/party_profit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_types_exercise/snowballs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interactive_data_type_operations_system/interactive_data_type_operations_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interactive_data_type_operations_system/interactive_data_type_operations_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_types_exercise/water_overflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types_exercise/water_overflow.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +64,7 @@
     "Python.even_numbers.executor": "Run",
     "Python.find_the_capitals.executor": "Debug",
     "Python.find_the_largest.executor": "Run",
+    "Python.gladiator_expenses.executor": "Run",
     "Python.hollow_square.executor": "Run",
     "Python.integer_operations.executor": "Run",
     "Python.interactive_data_type_operations_system.executor": "Run",
@@ -90,6 +87,7 @@
     "Python.sum_of_chars.executor": "Run",
     "Python.triangle_numbers.executor": "Debug",
     "Python.triples_of_latin_letters.executor": "Run",
+    "Python.water_overflow.executor": "Run",
     "Python.wolf_in_sheep_clothing.executor": "Run",
     "Python.word_reverse.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -240,6 +238,11 @@
           <line>21</line>
           <option name="temporary" value="true" />
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data_types_exercise/gladiator_expenses.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
