@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/Data_types_exercise/chars_to_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_types_exercise/elevator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_types_exercise/integer_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_types_exercise/print_part_of_the_ASCII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_types_exercise/sum_of_chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_types_exercise/triples_of_latin_letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_types_exercise/water_overflow.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Interactive_data_type_operations_system/interactive_data_type_operations_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interactive_data_type_operations_system/interactive_data_type_operations_system.py" afterDir="false" />
     </list>
@@ -62,6 +69,7 @@
     "Python.find_the_capitals.executor": "Debug",
     "Python.find_the_largest.executor": "Run",
     "Python.hollow_square.executor": "Run",
+    "Python.integer_operations.executor": "Run",
     "Python.interactive_data_type_operations_system.executor": "Run",
     "Python.inverted_pyramid.executor": "Run",
     "Python.jennys_secret_message.executor": "Run",
@@ -71,6 +79,7 @@
     "Python.mirrored_triangle.executor": "Run",
     "Python.number_between_1_and_100.executor": "Run",
     "Python.patern.executor": "Run",
+    "Python.print_part_of_the_ASCII.executor": "Run",
     "Python.pyramid.executor": "Debug",
     "Python.right-angled_triangle.executor": "Run",
     "Python.shopping.executor": "Run",
@@ -78,7 +87,9 @@
     "Python.star_dash_square.executor": "Run",
     "Python.string_pureness.executor": "Run",
     "Python.sum_of_a_beach.executor": "Run",
+    "Python.sum_of_chars.executor": "Run",
     "Python.triangle_numbers.executor": "Debug",
+    "Python.triples_of_latin_letters.executor": "Run",
     "Python.wolf_in_sheep_clothing.executor": "Run",
     "Python.word_reverse.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",

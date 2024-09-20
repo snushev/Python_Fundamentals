@@ -21,37 +21,37 @@ while True:
 
     # If the user chooses Strings (choice == '1'):
     if choice == '1':
-        print("You choose strings.")
+        print(f"You choose {ORANGE}strings{RESET}.")
         # Declare a string variable, e.g., sentence = "Learning Python is fun!"
         sentence = "Learning Python is fun!"
-        print("String: \"Learning Python is fun!\"")
+        print(f"{ORANGE}String:{RESET} \"Learning Python is fun!\"")
         # Extract and print a substring, such as the word "Python" from the sentence.
         python_word = sentence[5:13]
-        print("Substring:", python_word)
+        print(f"{ORANGE}Substring:{RESET}", python_word)
 
         # Convert the entire sentence to uppercase and print it.
         uppercase_sentence = sentence.upper()
-        print("Uppercase sentence:", uppercase_sentence)
+        print(f"{ORANGE}Uppercase sentence:{RESET}", uppercase_sentence)
 
         # Replace a word in the sentence (e.g., replace "fun" with "awesome") and print the modified sentence.
         modified_sentence = sentence.replace("fun", "awesome")
-        print("Modified sentence:", modified_sentence)
+        print(f"{ORANGE}Modified sentence:{RESET}", modified_sentence)
 
         # Print the length of the string
-        print("Length of the string:", len(sentence))
+        print(f"{ORANGE}Length of the string:{RESET}", len(sentence))
 
     # If the user chooses Numbers (choice == '2'):
     elif choice == '2':
         # Prompt the user to input two numbers, e.g., num1 and num2.
-        num1 = int(input("Enter the first number: "))
-        num2 = int(input("Enter the second number: "))
+        num1 = int(input(f"{ORANGE}Enter{RESET} the first number: "))
+        num2 = int(input(f"{ORANGE}Enter{RESET} the second number: "))
 
         # Perform and print the results of addition, subtraction, multiplication, and division.
         if num2 != 0:
-            print("Addition: ", num1 + num2)
-            print("Subtraction: ", num1 - num2)
-            print("Multiplication: ", num1 * num2)
-            print("Division: ", num1 / num2)
+            print(f"{ORANGE}Addition:{RESET} ", num1 + num2)
+            print(f"{ORANGE}Subtraction:{RESET} ", num1 - num2)
+            print(f"{ORANGE}Multiplication:{RESET} ", num1 * num2)
+            print(f"{ORANGE}Division:{RESET} ", num1 / num2)
         # Handle division by zero (e.g., print an error message if num2 is zero).
         else:
             print("Error: Division by zero is not allowed.")
