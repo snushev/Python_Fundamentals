@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Data_types_exercise/gladiator_expenses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_types_exercise/party_profit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_types_exercise/snowballs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_types_exercise/water_overflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types_exercise/water_overflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interactive_data_type_operations_system/interactive_data_type_operations_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interactive_data_type_operations_system/interactive_data_type_operations_system.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,17 +229,6 @@
           <url>file://$PROJECT_DIR$/Basic_syntax_more_exercise/find_the_capitals.py</url>
           <line>1</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Interactive_data_type_operations_system/interactive_data_type_operations_system.py</url>
-          <line>21</line>
-          <option name="temporary" value="true" />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Data_types_exercise/gladiator_expenses.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
