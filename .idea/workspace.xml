@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Data_type_more_exercise/decrypting_messages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_type_more_exercise/prime_number_checker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +54,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.centuries_to_minutes.executor": "Run",
+    "Python.decrypting_messages.executor": "Run",
     "Python.diamond.executor": "Debug",
     "Python.diamond_numbers.executor": "Run",
     "Python.double_char.executor": "Run",
