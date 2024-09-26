@@ -5,55 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Lists/Lists_exercises/invert_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/Lists_exercises/football_cards.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax/even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax/even_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax/largest_of_three.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax/largest_of_three.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax/number_between_1_and_100.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax/number_between_1_and_100.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax/number_definer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax/number_definer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax/patern.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax/patern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax/shopping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax/shopping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax/word_reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax/word_reverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax_exercise/chat_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax_exercise/chat_codes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax_exercise/chrismtas_spirit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax_exercise/chrismtas_spirit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax_exercise/coffee.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax_exercise/coffee.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax_exercise/double_char.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax_exercise/double_char.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax_exercise/drink_something.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax_exercise/drink_something.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax_exercise/easter_bread.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax_exercise/easter_bread.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax_exercise/jennys_secret_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax_exercise/jennys_secret_message.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax_exercise/maximum_multiple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax_exercise/maximum_multiple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax_exercise/mutate_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax_exercise/mutate_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax_exercise/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax_exercise/orders.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax_exercise/sorting_hat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax_exercise/sorting_hat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax_exercise/string_pureness.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax_exercise/string_pureness.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax_more_exercise/find_the_capitals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax_more_exercise/find_the_capitals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax_more_exercise/find_the_largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax_more_exercise/find_the_largest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax_more_exercise/sum_of_a_beach.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax_more_exercise/sum_of_a_beach.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_syntax_more_exercise/wolf_in_sheep_clothing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_syntaxis/Basic_syntax_more_exercise/wolf_in_sheep_clothing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_type_more_exercise/decrypting_messages.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_type_more_exercise/decrypting_messages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_type_more_exercise/exchange_integers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_type_more_exercise/exchange_integers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_type_more_exercise/prime_number_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_type_more_exercise/prime_number_checker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_types/centuries_to_minutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_types_lecture/centuries_to_minutes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_types/contact_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_types_lecture/contact_names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_types/convert_m_to_km.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_types_lecture/convert_m_to_km.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_types/next_happy_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_types_lecture/next_happy_year.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_types/pound_to_dollars.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_types_lecture/pound_to_dollars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_types/special_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_types_lecture/special_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_types_exercise/chars_to_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_types_exercise/chars_to_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_types_exercise/elevator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_types_exercise/elevator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_types_exercise/gladiator_expenses.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_types_exercise/gladiator_expenses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_types_exercise/integer_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_types_exercise/integer_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_types_exercise/party_profit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_types_exercise/party_profit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_types_exercise/print_part_of_the_ASCII.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_types_exercise/print_part_of_the_ASCII.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_types_exercise/snowballs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_types_exercise/snowballs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_types_exercise/sum_of_chars.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_types_exercise/sum_of_chars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_types_exercise/triples_of_latin_letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_types_exercise/triples_of_latin_letters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_types_exercise/water_overflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_types/Data_types_exercise/water_overflow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/courses.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Lists_lection/courses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/list_statistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Lists_lection/list_statistics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/numbers_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Lists_lection/numbers_filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Lists_lection/search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/strange_zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Lists_lection/strange_zoo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/Lists_exercises/multiples_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Lists_exercises/multiples_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +65,7 @@
     "Python.exchange_integers.executor": "Run",
     "Python.find_the_capitals.executor": "Debug",
     "Python.find_the_largest.executor": "Run",
+    "Python.football_cards.executor": "Run",
     "Python.gladiator_expenses.executor": "Run",
     "Python.hollow_square.executor": "Run",
     "Python.integer_operations.executor": "Run",
@@ -122,6 +77,7 @@
     "Python.left-angled_triangle.executor": "Run",
     "Python.maximum_multiple.executor": "Run",
     "Python.mirrored_triangle.executor": "Run",
+    "Python.multiples_list.executor": "Run",
     "Python.number_between_1_and_100.executor": "Run",
     "Python.patern.executor": "Run",
     "Python.prime_number_checker.executor": "Run",
