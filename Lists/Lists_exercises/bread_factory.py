@@ -11,24 +11,23 @@ for event in working_day_events:
     #     print("You had to rest!")
     #     energy += 50
     if event_type == "rest":
+        initial_energy = energy
         energy += event_value
-        if energy >= 100:
-            print(f'You gained 0 energy.')
-            print(f'Current energy: 100.')
+        if energy > 100:
             energy = 100
-        else:
-            print(f'You gained {event_value} energy.')
-            print(f'Current energy: {energy}.')
+        gained_energy = energy - initial_energy
+        print(f"You gained {gained_energy} energy.")
+        print(f"Current energy: {energy}.")
     elif event_type == "order":
-        if energy < 30:
-            print("You had to rest!")
-            energy += 50
-        else:
+        if energy >= 30:
             print(f'You earned {event_value} coins.')
             coins += event_value
             energy -= 30
+        else:
+            print("You had to rest!")
+            energy += 50
     else:
-        if coins <= event_value:
+        if coins < event_value:
             print(f"Closed! Cannot afford {event_type}.")
             bakery_is_open = False
             break

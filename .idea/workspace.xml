@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Lists/Lists_exercises/bread_factory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/Lists_exercises/farro_shuffle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/Lists_exercises/hello_france.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/Lists_exercises/number_beggars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/Lists_exercises/survival_of_the_biggest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/Lists_exercises/easter_gifts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/Lists_exercises/seize_the_fire.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/Lists_exercises/bread_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Lists_exercises/bread_factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/Lists_exercises/survival_of_the_biggest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Lists_exercises/survival_of_the_biggest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +64,7 @@
     "Python.diamond.executor": "Debug",
     "Python.diamond_numbers.executor": "Run",
     "Python.double_char.executor": "Run",
+    "Python.easter_gifts.executor": "Run",
     "Python.even_numbers.executor": "Run",
     "Python.exchange_integers.executor": "Run",
     "Python.farro_shuffle.executor": "Run",
@@ -92,6 +92,7 @@
     "Python.pyramid.executor": "Debug",
     "Python.right-angled_triangle.executor": "Run",
     "Python.search.executor": "Run",
+    "Python.seize_the_fire.executor": "Debug",
     "Python.shopping.executor": "Run",
     "Python.square_with_hollow_center.executor": "Run",
     "Python.star_dash_square.executor": "Run",
@@ -99,6 +100,7 @@
     "Python.string_pureness.executor": "Run",
     "Python.sum_of_a_beach.executor": "Run",
     "Python.sum_of_chars.executor": "Run",
+    "Python.survival_of_the_biggest.executor": "Run",
     "Python.triangle_numbers.executor": "Debug",
     "Python.triples_of_latin_letters.executor": "Run",
     "Python.water_overflow.executor": "Run",
@@ -259,6 +261,21 @@
           <url>file://$PROJECT_DIR$/Lists/Lists_exercises/bread_factory.py</url>
           <line>5</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lists/Lists_exercises/survival_of_the_biggest.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lists/Lists_exercises/easter_gifts.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lists/Lists_exercises/seize_the_fire.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
