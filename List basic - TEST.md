@@ -190,7 +190,7 @@ print(result)
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer -> You tell me :)) 
+#### Correct Answer -> A: ['ananab', 'yrrehc']
 </p>
 </details>
 
@@ -212,7 +212,7 @@ result = list(doubled)
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer -> You tell me :)) 
+#### Correct Answer -> A: [2, 4, 6, 8, 10]
 
 </p>
 </details>
@@ -255,7 +255,7 @@ result = [i for i in numbers if all(i % j != 0 for j in range(2, i))]
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer -> You tell me :)) 
+#### Correct Answer -> C: [2]
 
 </p>
 </details>
@@ -279,7 +279,7 @@ print(result, final_result)
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer -> You tell me, explain the code :)) 
+#### Correct Answer -> D: 16 16 
 
 </p>
 </details>

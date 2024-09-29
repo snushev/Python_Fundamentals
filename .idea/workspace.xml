@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Lists/Lists_exercises/easter_gifts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/Lists_exercises/seize_the_fire.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/Lists_more_exercises/car_race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/Lists_more_exercises/josephus_permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/Lists_more_exercises/messaging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/Lists_more_exercises/tic-tac-toe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/Lists_more_exercises/zeros_to_back.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/Lists_exercises/bread_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Lists_exercises/bread_factory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/Lists_exercises/survival_of_the_biggest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Lists_exercises/survival_of_the_biggest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List basic - TEST.md" beforeDir="false" afterPath="$PROJECT_DIR$/List basic - TEST.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +60,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.bread_factory.executor": "Run",
+    "Python.car_race.executor": "Debug",
     "Python.centuries_to_minutes.executor": "Run",
     "Python.courses.executor": "Run",
     "Python.decrypting_messages.executor": "Run",
@@ -79,9 +82,11 @@
     "Python.invert_values.executor": "Run",
     "Python.inverted_pyramid.executor": "Run",
     "Python.jennys_secret_message.executor": "Run",
+    "Python.josephus_permutation.executor": "Run",
     "Python.largest_of_three.executor": "Run",
     "Python.left-angled_triangle.executor": "Run",
     "Python.maximum_multiple.executor": "Run",
+    "Python.messaging.executor": "Run",
     "Python.mirrored_triangle.executor": "Run",
     "Python.multiples_list.executor": "Run",
     "Python.number_beggars.executor": "Run",
@@ -92,7 +97,7 @@
     "Python.pyramid.executor": "Debug",
     "Python.right-angled_triangle.executor": "Run",
     "Python.search.executor": "Run",
-    "Python.seize_the_fire.executor": "Debug",
+    "Python.seize_the_fire.executor": "Run",
     "Python.shopping.executor": "Run",
     "Python.square_with_hollow_center.executor": "Run",
     "Python.star_dash_square.executor": "Run",
@@ -101,11 +106,13 @@
     "Python.sum_of_a_beach.executor": "Run",
     "Python.sum_of_chars.executor": "Run",
     "Python.survival_of_the_biggest.executor": "Run",
+    "Python.tic-tac-toe.executor": "Run",
     "Python.triangle_numbers.executor": "Debug",
     "Python.triples_of_latin_letters.executor": "Run",
     "Python.water_overflow.executor": "Run",
     "Python.wolf_in_sheep_clothing.executor": "Run",
     "Python.word_reverse.executor": "Run",
+    "Python.zeros_to_back.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -276,6 +283,16 @@
           <url>file://$PROJECT_DIR$/Lists/Lists_exercises/seize_the_fire.py</url>
           <line>6</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lists/Lists_more_exercises/car_race.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lists/Lists_more_exercises/josephus_permutation.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
