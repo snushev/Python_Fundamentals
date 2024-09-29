@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Lists/Lists_more_exercises/car_race.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/Lists_more_exercises/josephus_permutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/Lists_more_exercises/messaging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/Lists_more_exercises/tic-tac-toe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/Lists_more_exercises/zeros_to_back.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/Lists_more_exercises/list_manipulator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List basic - TEST.md" beforeDir="false" afterPath="$PROJECT_DIR$/List basic - TEST.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/Lists_more_exercises/tic-tac-toe.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Lists_more_exercises/tic-tac-toe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +81,7 @@
     "Python.josephus_permutation.executor": "Run",
     "Python.largest_of_three.executor": "Run",
     "Python.left-angled_triangle.executor": "Run",
+    "Python.list_manipulator.executor": "Run",
     "Python.maximum_multiple.executor": "Run",
     "Python.messaging.executor": "Run",
     "Python.mirrored_triangle.executor": "Run",
@@ -106,7 +103,7 @@
     "Python.sum_of_a_beach.executor": "Run",
     "Python.sum_of_chars.executor": "Run",
     "Python.survival_of_the_biggest.executor": "Run",
-    "Python.tic-tac-toe.executor": "Run",
+    "Python.tic-tac-toe.executor": "Debug",
     "Python.triangle_numbers.executor": "Debug",
     "Python.triples_of_latin_letters.executor": "Run",
     "Python.water_overflow.executor": "Run",
@@ -293,6 +290,11 @@
           <url>file://$PROJECT_DIR$/Lists/Lists_more_exercises/josephus_permutation.py</url>
           <line>5</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lists/Lists_more_exercises/tic-tac-toe.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
