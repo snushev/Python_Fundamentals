@@ -6,8 +6,7 @@ def even_and_odd(number):
             even_sum += int(i)
         else:
             odd_sum += int(i)
-    return odd_sum, even_sum
+    return f"Odd sum = {odd_sum}, Even sum = {even_sum}"
 
 number = input()
-odd_sum, even_sum = even_and_odd(number)
-print(f"Odd sum = {odd_sum}, Even sum = {even_sum}")
+print(even_and_odd(number))

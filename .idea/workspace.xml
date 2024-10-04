@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/Functions/Functions_excercises/factorial_division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Functions_excercises/loading_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Functions_excercises/min_max_and_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Functions_excercises/palindrome_integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Functions_excercises/password_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Functions_excercises/perfect_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Functions_excercises/sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Functions/Functions_excercises/even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/Functions_excercises/even_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Functions_excercises/odd_and_even_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/Functions_excercises/odd_and_even_sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,82 +58,88 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.absolute_values.executor&quot;: &quot;Run&quot;,
-    &quot;Python.add_and_subtract.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.bread_factory.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculate_rectangle_area.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.car_race.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.centuries_to_minutes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.characters_in_range.executor&quot;: &quot;Run&quot;,
-    &quot;Python.courses.executor&quot;: &quot;Run&quot;,
-    &quot;Python.decrypting_messages.executor&quot;: &quot;Run&quot;,
-    &quot;Python.diamond.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.diamond_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.double_char.executor&quot;: &quot;Run&quot;,
-    &quot;Python.easter_gifts.executor&quot;: &quot;Run&quot;,
-    &quot;Python.even_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exchange_integers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.farro_shuffle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.find_the_capitals.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.find_the_largest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.football_cards.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gladiator_expenses.executor&quot;: &quot;Run&quot;,
-    &quot;Python.grades.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hello_france.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hollow_square.executor&quot;: &quot;Run&quot;,
-    &quot;Python.integer_operations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.interactive_data_type_operations_system.executor&quot;: &quot;Run&quot;,
-    &quot;Python.invert_values.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inverted_pyramid.executor&quot;: &quot;Run&quot;,
-    &quot;Python.jennys_secret_message.executor&quot;: &quot;Run&quot;,
-    &quot;Python.josephus_permutation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.largest_of_three.executor&quot;: &quot;Run&quot;,
-    &quot;Python.left-angled_triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_manipulator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.maximum_multiple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.messaging.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mirrored_triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multiples_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.number_beggars.executor&quot;: &quot;Run&quot;,
-    &quot;Python.number_between_1_and_100.executor&quot;: &quot;Run&quot;,
-    &quot;Python.odd_and_even_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.orders.executor&quot;: &quot;Run&quot;,
-    &quot;Python.patern.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prime_number_checker.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_part_of_the_ASCII.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pyramid.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.repeat_string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.right-angled_triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.search.executor&quot;: &quot;Run&quot;,
-    &quot;Python.seize_the_fire.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shopping.executor&quot;: &quot;Run&quot;,
-    &quot;Python.smallest_of_three_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.square_with_hollow_center.executor&quot;: &quot;Run&quot;,
-    &quot;Python.star_dash_square.executor&quot;: &quot;Run&quot;,
-    &quot;Python.strange_zoo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string_pureness.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum_of_a_beach.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum_of_chars.executor&quot;: &quot;Run&quot;,
-    &quot;Python.survival_of_the_biggest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tic-tac-toe.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.triangle_numbers.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.triples_of_latin_letters.executor&quot;: &quot;Run&quot;,
-    &quot;Python.water_overflow.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wolf_in_sheep_clothing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.word_reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zeros_to_back.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rose_/PycharmProjects/PythonFundamentals/05Basic_syntax&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.absolute_values.executor": "Run",
+    "Python.add_and_subtract.executor": "Debug",
+    "Python.bread_factory.executor": "Run",
+    "Python.calculate_rectangle_area.executor": "Run",
+    "Python.calculations.executor": "Run",
+    "Python.car_race.executor": "Debug",
+    "Python.centuries_to_minutes.executor": "Run",
+    "Python.characters_in_range.executor": "Run",
+    "Python.courses.executor": "Run",
+    "Python.decrypting_messages.executor": "Run",
+    "Python.diamond.executor": "Debug",
+    "Python.diamond_numbers.executor": "Run",
+    "Python.double_char.executor": "Run",
+    "Python.easter_gifts.executor": "Run",
+    "Python.even_numbers.executor": "Run",
+    "Python.exchange_integers.executor": "Run",
+    "Python.factorial_division.executor": "Run",
+    "Python.farro_shuffle.executor": "Run",
+    "Python.find_the_capitals.executor": "Debug",
+    "Python.find_the_largest.executor": "Run",
+    "Python.football_cards.executor": "Run",
+    "Python.gladiator_expenses.executor": "Run",
+    "Python.grades.executor": "Run",
+    "Python.hello_france.executor": "Run",
+    "Python.hollow_square.executor": "Run",
+    "Python.integer_operations.executor": "Run",
+    "Python.interactive_data_type_operations_system.executor": "Run",
+    "Python.invert_values.executor": "Run",
+    "Python.inverted_pyramid.executor": "Run",
+    "Python.jennys_secret_message.executor": "Run",
+    "Python.josephus_permutation.executor": "Run",
+    "Python.largest_of_three.executor": "Run",
+    "Python.left-angled_triangle.executor": "Run",
+    "Python.list_manipulator.executor": "Run",
+    "Python.loading_bar.executor": "Run",
+    "Python.maximum_multiple.executor": "Run",
+    "Python.messaging.executor": "Run",
+    "Python.mirrored_triangle.executor": "Run",
+    "Python.multiples_list.executor": "Run",
+    "Python.number_beggars.executor": "Run",
+    "Python.number_between_1_and_100.executor": "Run",
+    "Python.odd_and_even_sum.executor": "Run",
+    "Python.orders.executor": "Run",
+    "Python.palindrome_integers.executor": "Run",
+    "Python.password_validator.executor": "Run",
+    "Python.patern.executor": "Run",
+    "Python.perfect_number.executor": "Run",
+    "Python.prime_number_checker.executor": "Run",
+    "Python.print_part_of_the_ASCII.executor": "Run",
+    "Python.pyramid.executor": "Debug",
+    "Python.repeat_string.executor": "Run",
+    "Python.right-angled_triangle.executor": "Run",
+    "Python.search.executor": "Run",
+    "Python.seize_the_fire.executor": "Run",
+    "Python.shopping.executor": "Run",
+    "Python.smallest_of_three_numbers.executor": "Run",
+    "Python.sort.executor": "Run",
+    "Python.square_with_hollow_center.executor": "Run",
+    "Python.star_dash_square.executor": "Run",
+    "Python.strange_zoo.executor": "Run",
+    "Python.string_pureness.executor": "Run",
+    "Python.sum_of_a_beach.executor": "Run",
+    "Python.sum_of_chars.executor": "Run",
+    "Python.survival_of_the_biggest.executor": "Run",
+    "Python.tic-tac-toe.executor": "Debug",
+    "Python.triangle_numbers.executor": "Debug",
+    "Python.triples_of_latin_letters.executor": "Run",
+    "Python.water_overflow.executor": "Run",
+    "Python.wolf_in_sheep_clothing.executor": "Run",
+    "Python.word_reverse.executor": "Run",
+    "Python.zeros_to_back.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/rose_/PycharmProjects/PythonFundamentals/05Basic_syntax",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rose_\OneDrive\Документи\GitHub\Python_Fundamentals\Lists\Lists_lection" />
@@ -315,13 +330,8 @@
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Functions/Functions_excercises/even_numbers.py</url>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Functions/Functions_excercises/even_numbers.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="28" />
+          <url>file://$PROJECT_DIR$/Functions/Functions_excercises/password_validator.py</url>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

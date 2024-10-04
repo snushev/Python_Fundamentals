@@ -1,4 +1,3 @@
-# Function to filter even numbers
 def get_even_numbers(numbers: str) -> list:
     num_list = map(int, numbers.split())
     even_numbers = list(filter(lambda x: x % 2 == 0, num_list))
@@ -7,6 +6,6 @@ def get_even_numbers(numbers: str) -> list:
 
 
 
-numbers = input()
-even_numbers = get_even_numbers(numbers)
+nums = input()
+even_numbers = get_even_numbers(nums)
 print(even_numbers)
