@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Functions/Functions_excercises/factorial_division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/Functions_excercises/loading_bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/Functions_excercises/min_max_and_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/Functions_excercises/palindrome_integers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/Functions_excercises/password_validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/Functions_excercises/perfect_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/Functions_excercises/sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Functions_more_exercises/center_point.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Functions_more_exercises/data_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Functions_more_exercises/longer_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Functions_more_exercises/multiplication_sign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Functions_more_exercises/tribonacci_sequence.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Functions_excercises/even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/Functions_excercises/even_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Functions_excercises/odd_and_even_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/Functions_excercises/odd_and_even_sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,9 +64,11 @@
     "Python.calculate_rectangle_area.executor": "Run",
     "Python.calculations.executor": "Run",
     "Python.car_race.executor": "Debug",
+    "Python.center_point.executor": "Run",
     "Python.centuries_to_minutes.executor": "Run",
     "Python.characters_in_range.executor": "Run",
     "Python.courses.executor": "Run",
+    "Python.data_types.executor": "Run",
     "Python.decrypting_messages.executor": "Run",
     "Python.diamond.executor": "Debug",
     "Python.diamond_numbers.executor": "Run",
@@ -97,10 +95,12 @@
     "Python.left-angled_triangle.executor": "Run",
     "Python.list_manipulator.executor": "Run",
     "Python.loading_bar.executor": "Run",
+    "Python.longer_line.executor": "Run",
     "Python.maximum_multiple.executor": "Run",
     "Python.messaging.executor": "Run",
     "Python.mirrored_triangle.executor": "Run",
     "Python.multiples_list.executor": "Run",
+    "Python.multiplication_sign.executor": "Run",
     "Python.number_beggars.executor": "Run",
     "Python.number_between_1_and_100.executor": "Run",
     "Python.odd_and_even_sum.executor": "Run",
@@ -128,6 +128,7 @@
     "Python.survival_of_the_biggest.executor": "Run",
     "Python.tic-tac-toe.executor": "Debug",
     "Python.triangle_numbers.executor": "Debug",
+    "Python.tribonacci_sequence.executor": "Run",
     "Python.triples_of_latin_letters.executor": "Run",
     "Python.water_overflow.executor": "Run",
     "Python.wolf_in_sheep_clothing.executor": "Run",
@@ -332,6 +333,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Functions/Functions_excercises/password_validator.py</url>
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Functions/Functions_more_exercises/tribonacci_sequence.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
