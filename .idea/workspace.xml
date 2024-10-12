@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/electron_distribution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/next_version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/number_classification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/office_chairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/which_are_in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/word_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/anonymous_threat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/pokemon_dont_go.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/decipher_this.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/decipher_this.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +59,7 @@
     "Python.Trains.executor": "Run",
     "Python.absolute_values.executor": "Run",
     "Python.add_and_subtract.executor": "Debug",
+    "Python.anonymous_threat.executor": "Run",
     "Python.bread_factory.executor": "Run",
     "Python.calculate_rectangle_area.executor": "Run",
     "Python.calculations.executor": "Run",
@@ -71,6 +69,7 @@
     "Python.characters_in_range.executor": "Run",
     "Python.courses.executor": "Run",
     "Python.data_types.executor": "Run",
+    "Python.decipher_this.executor": "Run",
     "Python.decrypting_messages.executor": "Run",
     "Python.diamond.executor": "Debug",
     "Python.diamond_numbers.executor": "Run",
@@ -117,6 +116,7 @@
     "Python.password_validator.executor": "Run",
     "Python.patern.executor": "Run",
     "Python.perfect_number.executor": "Run",
+    "Python.pokemon_dont_go.executor": "Debug",
     "Python.prime_number_checker.executor": "Run",
     "Python.print_part_of_the_ASCII.executor": "Run",
     "Python.pyramid.executor": "Debug",
@@ -357,7 +357,29 @@
           <line>6</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/decipher_this.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/pokemon_dont_go.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/pokemon_dont_go.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>
