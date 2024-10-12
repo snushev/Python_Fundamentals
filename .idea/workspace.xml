@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_Lection/guess_the_number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/electron_distribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/next_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/number_classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/office_chairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/which_are_in.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/word_filter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_Lection/even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_Lection/even_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_Lection/the_office.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_Lection/the_office.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_Lection/to-do_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_Lection/to-do_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +76,7 @@
     "Python.diamond_numbers.executor": "Run",
     "Python.double_char.executor": "Run",
     "Python.easter_gifts.executor": "Run",
+    "Python.electron_distribution.executor": "Run",
     "Python.even_numbers.executor": "Run",
     "Python.exchange_integers.executor": "Run",
     "Python.factorial_division.executor": "Run",
@@ -101,10 +104,13 @@
     "Python.mirrored_triangle.executor": "Run",
     "Python.multiples_list.executor": "Run",
     "Python.multiplication_sign.executor": "Run",
+    "Python.next_version.executor": "Run",
     "Python.no_voews.executor": "Run",
     "Python.number_beggars.executor": "Run",
     "Python.number_between_1_and_100.executor": "Run",
+    "Python.number_classification.executor": "Run",
     "Python.odd_and_even_sum.executor": "Run",
+    "Python.office_chairs.executor": "Run",
     "Python.orders.executor": "Run",
     "Python.palindrome_integers.executor": "Run",
     "Python.palindrome_strings.executor": "Run",
@@ -136,7 +142,9 @@
     "Python.tribonacci_sequence.executor": "Run",
     "Python.triples_of_latin_letters.executor": "Run",
     "Python.water_overflow.executor": "Run",
+    "Python.which_are_in.executor": "Run",
     "Python.wolf_in_sheep_clothing.executor": "Run",
+    "Python.word_filter.executor": "Run",
     "Python.word_reverse.executor": "Run",
     "Python.zeros_to_back.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
