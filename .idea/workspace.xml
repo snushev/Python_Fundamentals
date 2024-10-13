@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/softuni_course_planning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/List_advanced_more_exercise/kates_way_out.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/List_advanced_more_exercise/social_distribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_advanced/List_advanced_more_exercise/take_skip_rope.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/softuni_course_planning.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/softuni_course_planning.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +94,7 @@
     "Python.inverted_pyramid.executor": "Run",
     "Python.jennys_secret_message.executor": "Run",
     "Python.josephus_permutation.executor": "Run",
+    "Python.kates_way_out.executor": "Run",
     "Python.largest_of_three.executor": "Run",
     "Python.left-angled_triangle.executor": "Run",
     "Python.list_manipulator.executor": "Run",
@@ -124,6 +128,8 @@
     "Python.seize_the_fire.executor": "Run",
     "Python.shopping.executor": "Run",
     "Python.smallest_of_three_numbers.executor": "Run",
+    "Python.social_distribution.executor": "Run",
+    "Python.softuni_course_planning.executor": "Run",
     "Python.sort.executor": "Run",
     "Python.sorting_names.executor": "Run",
     "Python.square_with_hollow_center.executor": "Run",
@@ -133,6 +139,7 @@
     "Python.sum_of_a_beach.executor": "Run",
     "Python.sum_of_chars.executor": "Run",
     "Python.survival_of_the_biggest.executor": "Run",
+    "Python.take_skip_rope.executor": "Run",
     "Python.the_office.executor": "Run",
     "Python.tic-tac-toe.executor": "Debug",
     "Python.to-do_list.executor": "Run",
@@ -369,6 +376,16 @@
           <url>file://$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/pokemon_dont_go.py</url>
           <line>10</line>
           <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/softuni_course_planning.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lists_advanced/List_advanced_more_exercise/take_skip_rope.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
