@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Lists_advanced/List_advanced_more_exercise/kates_way_out.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_advanced/List_advanced_more_exercise/social_distribution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_advanced/List_advanced_more_exercise/take_skip_rope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/softuni_course_planning.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists_advanced/Lists_advanced_excercises/softuni_course_planning.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +75,7 @@
     "Python.easter_gifts.executor": "Run",
     "Python.electron_distribution.executor": "Run",
     "Python.even_numbers.executor": "Run",
+    "Python.example.executor": "Run",
     "Python.exchange_integers.executor": "Run",
     "Python.factorial_division.executor": "Run",
     "Python.farro_shuffle.executor": "Run",
