@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/black_flag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/memory_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/shopping_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +60,7 @@
     "Python.absolute_values.executor": "Run",
     "Python.add_and_subtract.executor": "Debug",
     "Python.anonymous_threat.executor": "Run",
+    "Python.black_flag.executor": "Run",
     "Python.bread_factory.executor": "Run",
     "Python.calculate_rectangle_area.executor": "Run",
     "Python.calculations.executor": "Run",
@@ -99,6 +102,7 @@
     "Python.loading_bar.executor": "Run",
     "Python.longer_line.executor": "Run",
     "Python.maximum_multiple.executor": "Run",
+    "Python.memory_game.executor": "Run",
     "Python.messaging.executor": "Run",
     "Python.mirrored_triangle.executor": "Run",
     "Python.multiples_list.executor": "Run",
@@ -125,6 +129,7 @@
     "Python.search.executor": "Run",
     "Python.seize_the_fire.executor": "Run",
     "Python.shopping.executor": "Run",
+    "Python.shopping_list.executor": "Run",
     "Python.smallest_of_three_numbers.executor": "Run",
     "Python.social_distribution.executor": "Run",
     "Python.softuni_course_planning.executor": "Run",
@@ -384,6 +389,20 @@
           <url>file://$PROJECT_DIR$/Lists_advanced/List_advanced_more_exercise/take_skip_rope.py</url>
           <line>2</line>
           <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/black_flag.py</url>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/shopping_list.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/memory_game.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
