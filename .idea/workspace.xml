@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/bonus_scoring_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/computer_store.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/man_o_war.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/mu_online.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/the_lift.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/man_o_war.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/man_o_war.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +101,7 @@
     "Python.list_manipulator.executor": "Run",
     "Python.loading_bar.executor": "Run",
     "Python.longer_line.executor": "Run",
+    "Python.man_o_war.executor": "Run",
     "Python.maximum_multiple.executor": "Run",
     "Python.memory_game.executor": "Run",
     "Python.messaging.executor": "Run",
@@ -424,6 +421,11 @@
           <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/mu_online.py</url>
           <line>10</line>
           <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/man_o_war.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="62" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
