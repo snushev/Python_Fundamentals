@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/treasure_hunt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/man_o_war.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/man_o_war.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +149,7 @@
     "Python.the_office.executor": "Run",
     "Python.tic-tac-toe.executor": "Debug",
     "Python.to-do_list.executor": "Run",
+    "Python.treasure_hunt.executor": "Run",
     "Python.triangle_numbers.executor": "Debug",
     "Python.tribonacci_sequence.executor": "Run",
     "Python.triples_of_latin_letters.executor": "Run",
@@ -426,6 +427,11 @@
           <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/man_o_war.py</url>
           <line>44</line>
           <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/treasure_hunt.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
