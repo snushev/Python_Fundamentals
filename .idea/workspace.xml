@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/black_flag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/memory_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/shopping_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/bonus_scoring_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/computer_store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/man_o_war.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/mu_online.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/the_lift.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +63,7 @@
     "Python.add_and_subtract.executor": "Debug",
     "Python.anonymous_threat.executor": "Run",
     "Python.black_flag.executor": "Run",
+    "Python.bonus_scoring_system.executor": "Debug",
     "Python.bread_factory.executor": "Run",
     "Python.calculate_rectangle_area.executor": "Run",
     "Python.calculations.executor": "Run",
@@ -68,6 +71,7 @@
     "Python.center_point.executor": "Run",
     "Python.centuries_to_minutes.executor": "Run",
     "Python.characters_in_range.executor": "Run",
+    "Python.computer_store.executor": "Run",
     "Python.courses.executor": "Run",
     "Python.data_types.executor": "Run",
     "Python.decipher_this.executor": "Run",
@@ -105,6 +109,7 @@
     "Python.memory_game.executor": "Run",
     "Python.messaging.executor": "Run",
     "Python.mirrored_triangle.executor": "Run",
+    "Python.mu_online.executor": "Run",
     "Python.multiples_list.executor": "Run",
     "Python.multiplication_sign.executor": "Run",
     "Python.next_version.executor": "Run",
@@ -143,6 +148,7 @@
     "Python.sum_of_chars.executor": "Run",
     "Python.survival_of_the_biggest.executor": "Run",
     "Python.take_skip_rope.executor": "Run",
+    "Python.the_lift.executor": "Run",
     "Python.the_office.executor": "Run",
     "Python.tic-tac-toe.executor": "Debug",
     "Python.to-do_list.executor": "Run",
@@ -403,6 +409,21 @@
           <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/memory_game.py</url>
           <line>5</line>
           <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/computer_store.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/bonus_scoring_system.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/mu_online.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
