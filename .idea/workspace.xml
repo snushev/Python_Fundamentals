@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/treasure_hunt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/array_modifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/counter_strike.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/softuni_reception.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +61,7 @@
     "Python.absolute_values.executor": "Run",
     "Python.add_and_subtract.executor": "Debug",
     "Python.anonymous_threat.executor": "Run",
+    "Python.array_modifier.executor": "Run",
     "Python.black_flag.executor": "Run",
     "Python.bonus_scoring_system.executor": "Debug",
     "Python.bread_factory.executor": "Run",
@@ -68,6 +72,7 @@
     "Python.centuries_to_minutes.executor": "Run",
     "Python.characters_in_range.executor": "Run",
     "Python.computer_store.executor": "Run",
+    "Python.counter_strike.executor": "Run",
     "Python.courses.executor": "Run",
     "Python.data_types.executor": "Run",
     "Python.decipher_this.executor": "Run",
@@ -114,6 +119,7 @@
     "Python.number_beggars.executor": "Run",
     "Python.number_between_1_and_100.executor": "Run",
     "Python.number_classification.executor": "Run",
+    "Python.numbers.executor": "Run",
     "Python.odd_and_even_sum.executor": "Run",
     "Python.office_chairs.executor": "Run",
     "Python.orders.executor": "Run",
@@ -135,6 +141,7 @@
     "Python.smallest_of_three_numbers.executor": "Run",
     "Python.social_distribution.executor": "Run",
     "Python.softuni_course_planning.executor": "Run",
+    "Python.softuni_reception.executor": "Run",
     "Python.sort.executor": "Run",
     "Python.sorting_names.executor": "Run",
     "Python.square_with_hollow_center.executor": "Run",
@@ -432,6 +439,11 @@
           <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/treasure_hunt.py</url>
           <line>29</line>
           <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/softuni_reception.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="65" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
