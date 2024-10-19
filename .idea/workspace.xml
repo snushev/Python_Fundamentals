@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/array_modifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/counter_strike.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/softuni_reception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/burger_bus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/cooking_masterclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/experience_gaining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/journey_to_the_legendary_artifact.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,7 @@
     "Python.black_flag.executor": "Run",
     "Python.bonus_scoring_system.executor": "Debug",
     "Python.bread_factory.executor": "Run",
+    "Python.burger_bus.executor": "Run",
     "Python.calculate_rectangle_area.executor": "Run",
     "Python.calculations.executor": "Run",
     "Python.car_race.executor": "Debug",
@@ -72,6 +74,7 @@
     "Python.centuries_to_minutes.executor": "Run",
     "Python.characters_in_range.executor": "Run",
     "Python.computer_store.executor": "Run",
+    "Python.cooking_masterclass.executor": "Run",
     "Python.counter_strike.executor": "Run",
     "Python.courses.executor": "Run",
     "Python.data_types.executor": "Run",
@@ -85,6 +88,7 @@
     "Python.even_numbers.executor": "Run",
     "Python.example.executor": "Run",
     "Python.exchange_integers.executor": "Run",
+    "Python.experience_gaining.executor": "Run",
     "Python.factorial_division.executor": "Run",
     "Python.farro_shuffle.executor": "Run",
     "Python.find_the_capitals.executor": "Debug",
@@ -100,6 +104,7 @@
     "Python.inverted_pyramid.executor": "Run",
     "Python.jennys_secret_message.executor": "Run",
     "Python.josephus_permutation.executor": "Run",
+    "Python.journey_to_the_legendary_artifact.executor": "Run",
     "Python.kates_way_out.executor": "Run",
     "Python.largest_of_three.executor": "Run",
     "Python.left-angled_triangle.executor": "Run",
@@ -444,6 +449,26 @@
           <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_prep_1/softuni_reception.py</url>
           <line>7</line>
           <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/burger_bus.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/cooking_masterclass.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/experience_gaining.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/journey_to_the_legendary_artifact.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="72" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
