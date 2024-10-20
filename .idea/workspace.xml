@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/burger_bus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/cooking_masterclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/experience_gaining.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/journey_to_the_legendary_artifact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/coffee_lover.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/friends_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/quest_in_the_woods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/robot_adventure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/the_biscuit_factory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +74,7 @@
     "Python.center_point.executor": "Run",
     "Python.centuries_to_minutes.executor": "Run",
     "Python.characters_in_range.executor": "Run",
+    "Python.coffee_lover.executor": "Run",
     "Python.computer_store.executor": "Run",
     "Python.cooking_masterclass.executor": "Run",
     "Python.counter_strike.executor": "Run",
@@ -94,6 +96,7 @@
     "Python.find_the_capitals.executor": "Debug",
     "Python.find_the_largest.executor": "Run",
     "Python.football_cards.executor": "Run",
+    "Python.friends_list.executor": "Run",
     "Python.gladiator_expenses.executor": "Run",
     "Python.grades.executor": "Run",
     "Python.hello_france.executor": "Run",
@@ -139,6 +142,7 @@
     "Python.pyramid.executor": "Debug",
     "Python.repeat_string.executor": "Run",
     "Python.right-angled_triangle.executor": "Run",
+    "Python.robot_adventure.executor": "Debug",
     "Python.search.executor": "Run",
     "Python.seize_the_fire.executor": "Run",
     "Python.shopping.executor": "Run",
@@ -157,6 +161,7 @@
     "Python.sum_of_chars.executor": "Run",
     "Python.survival_of_the_biggest.executor": "Run",
     "Python.take_skip_rope.executor": "Run",
+    "Python.the_biscuit_factory.executor": "Run",
     "Python.the_lift.executor": "Run",
     "Python.the_office.executor": "Run",
     "Python.tic-tac-toe.executor": "Debug",
@@ -469,6 +474,26 @@
           <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/journey_to_the_legendary_artifact.py</url>
           <line>15</line>
           <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/coffee_lover.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/robot_adventure.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/robot_adventure.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/robot_adventure.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="78" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
