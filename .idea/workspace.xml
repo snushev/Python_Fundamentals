@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/coffee_lover.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/friends_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/quest_in_the_woods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/robot_adventure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/the_biscuit_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/space_travel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/num_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/robot_adventure.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/robot_adventure.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +139,7 @@
     "Python.pyramid.executor": "Debug",
     "Python.repeat_string.executor": "Run",
     "Python.right-angled_triangle.executor": "Run",
-    "Python.robot_adventure.executor": "Debug",
+    "Python.robot_adventure.executor": "Run",
     "Python.search.executor": "Run",
     "Python.seize_the_fire.executor": "Run",
     "Python.shopping.executor": "Run",
@@ -153,6 +150,7 @@
     "Python.softuni_reception.executor": "Run",
     "Python.sort.executor": "Run",
     "Python.sorting_names.executor": "Run",
+    "Python.space_travel.executor": "Run",
     "Python.square_with_hollow_center.executor": "Run",
     "Python.star_dash_square.executor": "Run",
     "Python.strange_zoo.executor": "Run",
@@ -191,6 +189,58 @@
       <recent name="C:\Users\rose_\OneDrive\Документи\GitHub\Python_Fundamentals\Basic_syntaxis" />
       <recent name="C:\Users\rose_\PycharmProjects\PythonFundamentals\05Basic_syntax\Basic_syntax" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.space_travel">
+    <configuration name="robot_adventure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/robot_adventure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="space_travel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/space_travel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.space_travel" />
+        <item itemvalue="Python.robot_adventure" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -482,18 +532,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/robot_adventure.py</url>
-          <line>49</line>
-          <option name="timeStamp" value="76" />
+          <line>43</line>
+          <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/robot_adventure.py</url>
-          <line>52</line>
-          <option name="timeStamp" value="77" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/robot_adventure.py</url>
-          <line>62</line>
-          <option name="timeStamp" value="78" />
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/space_travel.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="80" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

@@ -1,10 +1,8 @@
 def backward(city_grid_cells, total_points, new_command):
     start_index = int(new_command[1])
     steps = int(new_command[2])
-    if start_index in range(len(city_grid_cells)):
-        index = start_index - steps
-        if index < 0:
-            index = 0
+    if 0 <= start_index < len(city_grid_cells):
+        index = (start_index - steps) % len(city_grid_cells)
         total_points += city_grid_cells[index]
         city_grid_cells[index] = 0
     return city_grid_cells, total_points
@@ -13,8 +11,8 @@ def backward(city_grid_cells, total_points, new_command):
 def forward(city_grid_cells, total_points, new_command):
     start_index = int(new_command[1])
     steps = int(new_command[2])
-    if start_index in range(len(city_grid_cells)):
-        index = start_index + steps
+    if 0 <= start_index < len(city_grid_cells):
+        index = (start_index + steps) % len(city_grid_cells)
         if index >= len(city_grid_cells):
             index = len(city_grid_cells) - 1
         total_points += city_grid_cells[index]
@@ -33,7 +31,7 @@ def step(city_grid_cells, total_points, command):
 
 def double(city_grid_cells, command):
     index = int(command[1])
-    if index in range(len(city_grid_cells)):
+    if 0 <= index < len(city_grid_cells):
         city_grid_cells[index] *= 2
     return city_grid_cells
 
@@ -58,6 +56,7 @@ def main():
 
         command = input()
     print(" - ".join(map(str, city_grid_cells)))
+    print(f"Robo finished the adventure with {total_points} items!")
 
 
 main()
