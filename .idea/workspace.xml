@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/space_travel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/tax_calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/num_task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/robot_adventure.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/robot_adventure.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,6 +157,7 @@
     "Python.sum_of_chars.executor": "Run",
     "Python.survival_of_the_biggest.executor": "Run",
     "Python.take_skip_rope.executor": "Run",
+    "Python.tax_calculator.executor": "Run",
     "Python.the_biscuit_factory.executor": "Run",
     "Python.the_lift.executor": "Run",
     "Python.the_office.executor": "Run",
@@ -190,7 +189,7 @@
       <recent name="C:\Users\rose_\PycharmProjects\PythonFundamentals\05Basic_syntax\Basic_syntax" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.space_travel">
+  <component name="RunManager" selected="Python.tax_calculator">
     <configuration name="robot_adventure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamentals" />
       <option name="ENV_FILES" value="" />
@@ -235,8 +234,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tax_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/tax_calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tax_calculator" />
         <item itemvalue="Python.space_travel" />
         <item itemvalue="Python.robot_adventure" />
       </list>
