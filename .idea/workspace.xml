@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/chat_logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/deck_of_cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/greenhouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_Lections/email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_Lections/party.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_Lections/comment_.py" beforeDir="false" afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_Lections/comment_.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +74,7 @@
     "Python.characters_in_range.executor": "Run",
     "Python.chat_logger.executor": "Run",
     "Python.coffee_lover.executor": "Run",
+    "Python.comment_.executor": "Run",
     "Python.computer_store.executor": "Run",
     "Python.cooking_masterclass.executor": "Run",
     "Python.counter_strike.executor": "Run",
@@ -97,6 +100,7 @@
     "Python.friends_list.executor": "Run",
     "Python.gladiator_expenses.executor": "Run",
     "Python.grades.executor": "Run",
+    "Python.greenhouse.executor": "Run",
     "Python.hello_france.executor": "Run",
     "Python.hollow_square.executor": "Run",
     "Python.integer_operations.executor": "Run",
@@ -131,6 +135,7 @@
     "Python.orders.executor": "Run",
     "Python.palindrome_integers.executor": "Run",
     "Python.palindrome_strings.executor": "Run",
+    "Python.party.executor": "Run",
     "Python.password_validator.executor": "Run",
     "Python.patern.executor": "Run",
     "Python.perfect_number.executor": "Run",
@@ -192,7 +197,7 @@
       <recent name="C:\Users\rose_\PycharmProjects\PythonFundamentals\05Basic_syntax\Basic_syntax" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.deck_of_cards">
+  <component name="RunManager">
     <configuration name="chat_logger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamentals" />
       <option name="ENV_FILES" value="" />
