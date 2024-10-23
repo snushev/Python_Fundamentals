@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/tax_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/chat_logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/deck_of_cards.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +70,7 @@
     "Python.center_point.executor": "Run",
     "Python.centuries_to_minutes.executor": "Run",
     "Python.characters_in_range.executor": "Run",
+    "Python.chat_logger.executor": "Run",
     "Python.coffee_lover.executor": "Run",
     "Python.computer_store.executor": "Run",
     "Python.cooking_masterclass.executor": "Run",
@@ -76,6 +78,7 @@
     "Python.courses.executor": "Run",
     "Python.data_types.executor": "Run",
     "Python.decipher_this.executor": "Run",
+    "Python.deck_of_cards.executor": "Run",
     "Python.decrypting_messages.executor": "Run",
     "Python.diamond.executor": "Debug",
     "Python.diamond_numbers.executor": "Run",
@@ -189,7 +192,51 @@
       <recent name="C:\Users\rose_\PycharmProjects\PythonFundamentals\05Basic_syntax\Basic_syntax" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tax_calculator">
+  <component name="RunManager" selected="Python.deck_of_cards">
+    <configuration name="chat_logger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/chat_logger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deck_of_cards" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Fundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/deck_of_cards.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="robot_adventure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Fundamentals" />
       <option name="ENV_FILES" value="" />
@@ -258,6 +305,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.deck_of_cards" />
+        <item itemvalue="Python.chat_logger" />
         <item itemvalue="Python.tax_calculator" />
         <item itemvalue="Python.space_travel" />
         <item itemvalue="Python.robot_adventure" />
@@ -561,6 +610,16 @@
           <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/space_travel.py</url>
           <line>5</line>
           <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/chat_logger.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/deck_of_cards.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="83" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
