@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_Lections/circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_Lections/zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/weapon.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_Lections/zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_Lections/zoo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/storage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,6 +159,7 @@
     "Python.space_travel.executor": "Run",
     "Python.square_with_hollow_center.executor": "Run",
     "Python.star_dash_square.executor": "Run",
+    "Python.storage.executor": "Run",
     "Python.strange_zoo.executor": "Run",
     "Python.string_pureness.executor": "Run",
     "Python.sum_of_a_beach.executor": "Run",
@@ -176,6 +177,7 @@
     "Python.tribonacci_sequence.executor": "Run",
     "Python.triples_of_latin_letters.executor": "Run",
     "Python.water_overflow.executor": "Run",
+    "Python.weapon.executor": "Run",
     "Python.which_are_in.executor": "Run",
     "Python.wolf_in_sheep_clothing.executor": "Run",
     "Python.word_filter.executor": "Run",
