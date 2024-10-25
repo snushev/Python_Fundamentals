@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/greenhouse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_Lections/email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_Lections/party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_Lections/circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_Lections/zoo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_Lections/comment_.py" beforeDir="false" afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_Lections/comment_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +72,7 @@
     "Python.centuries_to_minutes.executor": "Run",
     "Python.characters_in_range.executor": "Run",
     "Python.chat_logger.executor": "Run",
+    "Python.circle.executor": "Run",
     "Python.coffee_lover.executor": "Run",
     "Python.comment_.executor": "Run",
     "Python.computer_store.executor": "Run",
@@ -181,6 +181,7 @@
     "Python.word_filter.executor": "Run",
     "Python.word_reverse.executor": "Run",
     "Python.zeros_to_back.executor": "Run",
+    "Python.zoo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -310,8 +311,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.deck_of_cards" />
         <item itemvalue="Python.chat_logger" />
+        <item itemvalue="Python.deck_of_cards" />
         <item itemvalue="Python.tax_calculator" />
         <item itemvalue="Python.space_travel" />
         <item itemvalue="Python.robot_adventure" />
