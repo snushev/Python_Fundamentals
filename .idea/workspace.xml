@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Mid_exam/archery_champion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam/gift_box_coverage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam/grocery_shopping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/articles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/inventory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/movie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/town.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP - TEST.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/catalogue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/catalogue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
