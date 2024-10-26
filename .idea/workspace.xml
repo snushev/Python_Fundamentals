@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/weapon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam/archery_champion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam/gift_box_coverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_exam/grocery_shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/articles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/inventory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/town.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/vehicle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_Lections/zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_Lections/zoo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/storage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/catalogue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/catalogue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +68,9 @@
     "Python.absolute_values.executor": "Run",
     "Python.add_and_subtract.executor": "Debug",
     "Python.anonymous_threat.executor": "Run",
+    "Python.archery_champion.executor": "Run",
     "Python.array_modifier.executor": "Run",
+    "Python.articles.executor": "Run",
     "Python.black_flag.executor": "Run",
     "Python.bonus_scoring_system.executor": "Debug",
     "Python.bread_factory.executor": "Run",
@@ -68,11 +78,13 @@
     "Python.calculate_rectangle_area.executor": "Run",
     "Python.calculations.executor": "Run",
     "Python.car_race.executor": "Debug",
+    "Python.catalogue.executor": "Run",
     "Python.center_point.executor": "Run",
     "Python.centuries_to_minutes.executor": "Run",
     "Python.characters_in_range.executor": "Run",
     "Python.chat_logger.executor": "Run",
     "Python.circle.executor": "Run",
+    "Python.class.executor": "Run",
     "Python.coffee_lover.executor": "Run",
     "Python.comment_.executor": "Run",
     "Python.computer_store.executor": "Run",
@@ -98,13 +110,16 @@
     "Python.find_the_largest.executor": "Run",
     "Python.football_cards.executor": "Run",
     "Python.friends_list.executor": "Run",
+    "Python.gift_box_coverage.executor": "Run",
     "Python.gladiator_expenses.executor": "Run",
     "Python.grades.executor": "Run",
     "Python.greenhouse.executor": "Run",
+    "Python.grocery_shopping.executor": "Run",
     "Python.hello_france.executor": "Run",
     "Python.hollow_square.executor": "Run",
     "Python.integer_operations.executor": "Run",
     "Python.interactive_data_type_operations_system.executor": "Run",
+    "Python.inventory.executor": "Run",
     "Python.invert_values.executor": "Run",
     "Python.inverted_pyramid.executor": "Run",
     "Python.jennys_secret_message.executor": "Run",
@@ -121,6 +136,7 @@
     "Python.memory_game.executor": "Run",
     "Python.messaging.executor": "Run",
     "Python.mirrored_triangle.executor": "Run",
+    "Python.movie.executor": "Run",
     "Python.mu_online.executor": "Run",
     "Python.multiples_list.executor": "Run",
     "Python.multiplication_sign.executor": "Run",
@@ -176,6 +192,7 @@
     "Python.triangle_numbers.executor": "Debug",
     "Python.tribonacci_sequence.executor": "Run",
     "Python.triples_of_latin_letters.executor": "Run",
+    "Python.vehicle.executor": "Run",
     "Python.water_overflow.executor": "Run",
     "Python.weapon.executor": "Run",
     "Python.which_are_in.executor": "Run",
@@ -628,6 +645,31 @@
           <url>file://$PROJECT_DIR$/Mid_exam_prep/Mid_exam_2/deck_of_cards.py</url>
           <line>46</line>
           <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/inventory.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/vehicle.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Objects_and_classes/O&amp;C_exercises/vehicle.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam/gift_box_coverage.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mid_exam/archery_champion.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="89" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
