@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/ascii_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/bakery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/odd_occurences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/statistics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/stock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/students.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/a_miner_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/capitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/count_chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/legendary_farming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/phonebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/softuni_parking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/odd_occurences.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/odd_occurences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/stock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/word_synonyms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/word_synonyms.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +64,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.Trains.executor": "Run",
+    "Python.a_miner_task.executor": "Run",
     "Python.absolute_values.executor": "Run",
     "Python.add_and_subtract.executor": "Debug",
     "Python.anonymous_threat.executor": "Run",
@@ -75,6 +80,7 @@
     "Python.burger_bus.executor": "Run",
     "Python.calculate_rectangle_area.executor": "Run",
     "Python.calculations.executor": "Run",
+    "Python.capitals.executor": "Run",
     "Python.car_race.executor": "Debug",
     "Python.catalogue.executor": "Run",
     "Python.center_point.executor": "Run",
@@ -87,6 +93,7 @@
     "Python.comment_.executor": "Run",
     "Python.computer_store.executor": "Run",
     "Python.cooking_masterclass.executor": "Run",
+    "Python.count_chars.executor": "Run",
     "Python.counter_strike.executor": "Run",
     "Python.courses.executor": "Run",
     "Python.data_types.executor": "Run",
@@ -127,6 +134,7 @@
     "Python.kates_way_out.executor": "Run",
     "Python.largest_of_three.executor": "Run",
     "Python.left-angled_triangle.executor": "Run",
+    "Python.legendary_farming.executor": "Run",
     "Python.list_manipulator.executor": "Run",
     "Python.loading_bar.executor": "Run",
     "Python.longer_line.executor": "Run",
@@ -155,6 +163,7 @@
     "Python.password_validator.executor": "Run",
     "Python.patern.executor": "Run",
     "Python.perfect_number.executor": "Run",
+    "Python.phonebook.executor": "Run",
     "Python.pokemon_dont_go.executor": "Debug",
     "Python.prime_number_checker.executor": "Run",
     "Python.print_part_of_the_ASCII.executor": "Run",
@@ -203,6 +212,7 @@
     "Python.wolf_in_sheep_clothing.executor": "Run",
     "Python.word_filter.executor": "Run",
     "Python.word_reverse.executor": "Run",
+    "Python.word_synonyms.executor": "Run",
     "Python.zeros_to_back.executor": "Run",
     "Python.zoo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -699,6 +709,26 @@
           <url>file://$PROJECT_DIR$/Dictionaries/Dictionaries_lections/odd_occurences.py</url>
           <line>3</line>
           <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/capitals.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/legendary_farming.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/legendary_farming.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/orders.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="100" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

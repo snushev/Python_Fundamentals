@@ -1,4 +1,4 @@
-words_keys = [el.lower() for el in input().split()]
+words_keys = [element.lower() for element in input().split()]
 default = 0
 occurrences = dict.fromkeys(words_keys, default)
 for word in words_keys:
