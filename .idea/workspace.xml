@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Mid_exam/books_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam/google_searches.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mid_exam/the_final_quest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Self_exercises/simple_bank_account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Self_exercises/students_grading_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/ascii_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/bakery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/odd_occurences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/students.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +66,8 @@
     "Python.archery_champion.executor": "Run",
     "Python.array_modifier.executor": "Run",
     "Python.articles.executor": "Run",
+    "Python.ascii_values.executor": "Run",
+    "Python.bakery.executor": "Run",
     "Python.black_flag.executor": "Run",
     "Python.bonus_scoring_system.executor": "Debug",
     "Python.books_world.executor": "Run",
@@ -143,6 +146,7 @@
     "Python.number_classification.executor": "Run",
     "Python.numbers.executor": "Run",
     "Python.odd_and_even_sum.executor": "Run",
+    "Python.odd_occurences.executor": "Run",
     "Python.office_chairs.executor": "Run",
     "Python.orders.executor": "Run",
     "Python.palindrome_integers.executor": "Run",
@@ -172,9 +176,11 @@
     "Python.space_travel.executor": "Run",
     "Python.square_with_hollow_center.executor": "Run",
     "Python.star_dash_square.executor": "Run",
+    "Python.statistics.executor": "Run",
     "Python.storage.executor": "Run",
     "Python.strange_zoo.executor": "Run",
     "Python.string_pureness.executor": "Run",
+    "Python.students.executor": "Run",
     "Python.sum_of_a_beach.executor": "Run",
     "Python.sum_of_chars.executor": "Run",
     "Python.survival_of_the_biggest.executor": "Run",
@@ -688,6 +694,11 @@
           <url>file://$PROJECT_DIR$/Self_exercises/simple_bank_account.py</url>
           <line>19</line>
           <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dictionaries/Dictionaries_lections/odd_occurences.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="95" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
