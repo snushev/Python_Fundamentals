@@ -31,3 +31,4 @@ for i in range(number_of_commands):
 
 for user in db:
     print(f"{user} => {db[user]}")
+

@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/a_miner_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/capitals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/count_chars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/legendary_farming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/phonebook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/softuni_parking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/company_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/courses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/force_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/softuni_exam_results.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/student_academy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/ranking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/odd_occurences.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/odd_occurences.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/stock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/word_synonyms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_lections/word_synonyms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/softuni_parking.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/softuni_parking.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +88,7 @@
     "Python.class.executor": "Run",
     "Python.coffee_lover.executor": "Run",
     "Python.comment_.executor": "Run",
+    "Python.company_users.executor": "Run",
     "Python.computer_store.executor": "Run",
     "Python.cooking_masterclass.executor": "Run",
     "Python.count_chars.executor": "Run",
@@ -114,6 +112,7 @@
     "Python.find_the_capitals.executor": "Debug",
     "Python.find_the_largest.executor": "Run",
     "Python.football_cards.executor": "Run",
+    "Python.force_book.executor": "Debug",
     "Python.friends_list.executor": "Run",
     "Python.gift_box_coverage.executor": "Run",
     "Python.gladiator_expenses.executor": "Run",
@@ -179,6 +178,8 @@
     "Python.smallest_of_three_numbers.executor": "Run",
     "Python.social_distribution.executor": "Run",
     "Python.softuni_course_planning.executor": "Run",
+    "Python.softuni_exam_results.executor": "Run",
+    "Python.softuni_parking.executor": "Run",
     "Python.softuni_reception.executor": "Run",
     "Python.sort.executor": "Run",
     "Python.sorting_names.executor": "Run",
@@ -189,6 +190,7 @@
     "Python.storage.executor": "Run",
     "Python.strange_zoo.executor": "Run",
     "Python.string_pureness.executor": "Run",
+    "Python.student_academy.executor": "Run",
     "Python.students.executor": "Run",
     "Python.sum_of_a_beach.executor": "Run",
     "Python.sum_of_chars.executor": "Run",
@@ -729,6 +731,26 @@
           <url>file://$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/orders.py</url>
           <line>2</line>
           <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/courses.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/force_book.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/force_book.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/softuni_exam_results.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="106" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
