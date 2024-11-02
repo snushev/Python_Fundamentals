@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/judge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/moba_challenger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/snow_white.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/ranking.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/ranking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/snow_white.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/snow_white.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
