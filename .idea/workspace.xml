@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/judge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/moba_challenger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/snow_white.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/ranking.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/ranking.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +127,7 @@
     "Python.jennys_secret_message.executor": "Run",
     "Python.josephus_permutation.executor": "Run",
     "Python.journey_to_the_legendary_artifact.executor": "Run",
+    "Python.judge.executor": "Run",
     "Python.kates_way_out.executor": "Run",
     "Python.largest_of_three.executor": "Run",
     "Python.left-angled_triangle.executor": "Run",
@@ -137,6 +140,7 @@
     "Python.memory_game.executor": "Run",
     "Python.messaging.executor": "Run",
     "Python.mirrored_triangle.executor": "Run",
+    "Python.moba_challenger.executor": "Run",
     "Python.movie.executor": "Run",
     "Python.mu_online.executor": "Run",
     "Python.multiples_list.executor": "Run",
@@ -172,6 +176,7 @@
     "Python.shopping_list.executor": "Run",
     "Python.simple_bank_account.executor": "Run",
     "Python.smallest_of_three_numbers.executor": "Run",
+    "Python.snow_white.executor": "Run",
     "Python.social_distribution.executor": "Run",
     "Python.softuni_course_planning.executor": "Run",
     "Python.softuni_exam_results.executor": "Run",
@@ -747,11 +752,6 @@
           <url>file://$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/softuni_exam_results.py</url>
           <line>3</line>
           <option name="timeStamp" value="106" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/ranking.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="107" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
