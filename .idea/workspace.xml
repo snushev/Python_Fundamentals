@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/company_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/courses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/force_book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/softuni_exam_results.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/student_academy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/ranking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/softuni_parking.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/softuni_parking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/ranking.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/ranking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,6 +162,7 @@
     "Python.prime_number_checker.executor": "Run",
     "Python.print_part_of_the_ASCII.executor": "Run",
     "Python.pyramid.executor": "Debug",
+    "Python.ranking.executor": "Run",
     "Python.repeat_string.executor": "Run",
     "Python.right-angled_triangle.executor": "Run",
     "Python.robot_adventure.executor": "Run",
@@ -751,6 +747,11 @@
           <url>file://$PROJECT_DIR$/Dictionaries/Dictionaries_exercises/softuni_exam_results.py</url>
           <line>3</line>
           <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dictionaries/Dictionaries_more_exercises/ranking.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="107" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
