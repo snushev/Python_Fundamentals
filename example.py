@@ -1,15 +1,11 @@
-def calculate_love_score(name1, name2):
-    true_num = 0
-    love_num = 0
-    names = name1 + name2
-    for char in names.lower():
-        if char in "TRUE":
-            true_num += 1
-    for char in names.lower():
-        if char in "LOVE":
-            love_num += 1
-
-    print(f"{true_num}{love_num}")
+def is_prime(num):
+    n = 0
+    for i in range(1, num + 1,):
+        if num % i == 0:
+            n += 1
+            if n == 3:
+                return False
+    return True
 
 
-calculate_love_score("Angela Yu", "Jack Bauer")
+print(is_prime(73))
