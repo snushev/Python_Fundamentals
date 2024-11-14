@@ -1,11 +1,14 @@
-def is_prime(num):
-    n = 0
-    for i in range(1, num + 1,):
-        if num % i == 0:
-            n += 1
-            if n == 3:
-                return False
-    return True
+# Target is the number up to which we count
+def fizz_buzz(target):
+    for number in range(1, target + 1):
+        if number % 3 == 0 and number % 5 == 0:
+            print("FizzBuzz")
+        elif number % 3 == 0:
+            print("Fizz")
+        elif number % 5 == 0:
+            print("Buzz")
+        else:
+            print(number)
 
 
-print(is_prime(73))
+fizz_buzz(15)
