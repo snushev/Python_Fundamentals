@@ -3,7 +3,7 @@ import re
 text = input()
 word = input()
 
-regex = r"\b" + re.escape(word) + r"\b"
+regex = fr"\b{word}\b"
 
 matches = re.findall(regex, text, re.IGNORECASE)
 
