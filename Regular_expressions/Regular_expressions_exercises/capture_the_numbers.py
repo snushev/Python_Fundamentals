@@ -4,6 +4,7 @@ lst = []
 
 while True:
     text = input().strip()
+
     if text == "":
         break
     regex = r"\d+"
