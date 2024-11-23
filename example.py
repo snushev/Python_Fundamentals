@@ -1,14 +1,13 @@
-# Target is the number up to which we count
-def fizz_buzz(target):
-    for number in range(1, target + 1):
-        if number % 3 == 0 and number % 5 == 0:
-            print("FizzBuzz")
-        elif number % 3 == 0:
-            print("Fizz")
-        elif number % 5 == 0:
-            print("Buzz")
-        else:
-            print(number)
-
-
-fizz_buzz(15)
+from winsound import Beep
+notes = {'C': 1635,
+         'D': 1835,
+         'E': 2060,
+         'S': 1945,
+         'F': 2183,
+         'G': 2450,
+         'A': 2750,
+         'B': 3087,
+         ' ': 37}
+melodie = 'CDCDE E CDCDE E FEFED D EDEDC C'
+for note in melodie:
+    Beep(notes[note], 500)

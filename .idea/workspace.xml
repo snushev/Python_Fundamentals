@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4900a7-31bb-435d-bfda-f88ee0b32491" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Final_exam_prep/fancy_barcodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_exam_prep/need_for_speed_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_exam_prep/the_imitation_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_expressions/Regular_expressions_more_exercises/html_parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_expressions/Regular_expressions_more_exercises/nether_realms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_expressions/Regular_expressions_more_exercises/race.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_expressions/Regular_expressions_more_exercises/softuni_bar_income.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular_expressions/Regular_expressions_more_exercises/star_enigma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_exam_prep/activation_keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_exam_prep/ad_astra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_exam_prep/bakery_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_exam_prep/destination_mapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_exam_prep/emoji_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_exam_prep/pirates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_exam_prep/plant_discovery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_exam_prep/the_pianist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_exam_prep/world_tour.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regular_expressions/Regular_expressions_exercises/extract_the_links.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regular_expressions/Regular_expressions_exercises/extract_the_links.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,8 @@
     "Python.Trains.executor": "Run",
     "Python.a_miner_task.executor": "Run",
     "Python.absolute_values.executor": "Run",
+    "Python.activation_keys.executor": "Run",
+    "Python.ad_astra.executor": "Run",
     "Python.add_and_subtract.executor": "Debug",
     "Python.anonymous_threat.executor": "Run",
     "Python.archery_champion.executor": "Run",
@@ -72,6 +75,7 @@
     "Python.articles.executor": "Run",
     "Python.ascii_values.executor": "Run",
     "Python.bakery.executor": "Run",
+    "Python.bakery_shop.executor": "Debug",
     "Python.binary_digits_count.executor": "Run",
     "Python.bit_at_position_1.executor": "Run",
     "Python.bit_destroyer.executor": "Run",
@@ -106,12 +110,14 @@
     "Python.decipher_this.executor": "Run",
     "Python.deck_of_cards.executor": "Run",
     "Python.decrypting_messages.executor": "Run",
+    "Python.destination_mapper.executor": "Run",
     "Python.diamond.executor": "Debug",
     "Python.diamond_numbers.executor": "Run",
     "Python.digits_letters_and_other.executor": "Run",
     "Python.double_char.executor": "Run",
     "Python.easter_gifts.executor": "Run",
     "Python.electron_distribution.executor": "Run",
+    "Python.emoji_detector.executor": "Run",
     "Python.emoticon_finder.executor": "Run",
     "Python.even_numbers.executor": "Run",
     "Python.example.executor": "Run",
@@ -167,6 +173,7 @@
     "Python.maximum_multiple.executor": "Run",
     "Python.memory_game.executor": "Run",
     "Python.messaging.executor": "Run",
+    "Python.mirror_words.executor": "Run",
     "Python.mirrored_triangle.executor": "Run",
     "Python.moba_challenger.executor": "Run",
     "Python.morse_code_translator.executor": "Run",
@@ -195,6 +202,8 @@
     "Python.patern.executor": "Run",
     "Python.perfect_number.executor": "Run",
     "Python.phonebook.executor": "Run",
+    "Python.pirates.executor": "Run",
+    "Python.plant_discovery.executor": "Run",
     "Python.pokemon_dont_go.executor": "Debug",
     "Python.prime_number_checker.executor": "Run",
     "Python.print_part_of_the_ASCII.executor": "Run",
@@ -204,6 +213,7 @@
     "Python.race.executor": "Run",
     "Python.rage_quit.executor": "Run",
     "Python.ranking.executor": "Run",
+    "Python.registration.executor": "Run",
     "Python.repeat_string.executor": "Run",
     "Python.repeat_strings.executor": "Run",
     "Python.replace_repeating_chars.executor": "Run",
@@ -211,6 +221,7 @@
     "Python.right-angled_triangle.executor": "Run",
     "Python.robot_adventure.executor": "Run",
     "Python.search.executor": "Run",
+    "Python.secret_chat.executor": "Run",
     "Python.seize_the_fire.executor": "Run",
     "Python.shopping.executor": "Run",
     "Python.shopping_list.executor": "Run",
@@ -247,6 +258,7 @@
     "Python.the_final_quest.executor": "Run",
     "Python.the_lift.executor": "Run",
     "Python.the_office.executor": "Run",
+    "Python.the_pianist.executor": "Run",
     "Python.tic-tac-toe.executor": "Debug",
     "Python.to-do_list.executor": "Run",
     "Python.treasure_finder.executor": "Run",
@@ -264,6 +276,7 @@
     "Python.word_filter.executor": "Run",
     "Python.word_reverse.executor": "Run",
     "Python.word_synonyms.executor": "Run",
+    "Python.world_tour.executor": "Run",
     "Python.zeros_to_back.executor": "Run",
     "Python.zoo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -910,6 +923,36 @@
           <url>file://$PROJECT_DIR$/Final_exam_prep/need_for_speed_3.py</url>
           <line>39</line>
           <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Final_exam_prep/bakery_shop.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Final_exam_prep/the_pianist.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Final_exam_prep/world_tour.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Final_exam_prep/plant_discovery.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Final_exam_prep/activation_keys.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Final_exam_prep/emoji_detector.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="146" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
