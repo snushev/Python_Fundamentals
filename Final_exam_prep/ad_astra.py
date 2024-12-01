@@ -1,7 +1,7 @@
 import re
+
 total_calories = 0
 items = []
-
 text = input()
 regex = r'([#|])(?P<item>[a-zA-Z\s]+)\1(?P<exp_date>\d{2}\/\d{2}\/\d{2})\1(?P<cal>\d{1,5})\1'
 matches = re.finditer(regex, text)
